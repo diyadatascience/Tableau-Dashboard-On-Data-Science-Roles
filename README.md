@@ -6,10 +6,8 @@ This repository contains the analysis and interactive visualizations of data sci
 The study examines the data science job market by analyzing salary trends through a series of visualizations and an interactive dashboard. This analysis helps in understanding the impact of experience, location, and company size on wages in the data science field.
 
 #### Contents
-- **Predicting Health Insurance Cost Report.pdf**: This report provides a detailed analysis of salary trends in the data science job market, including insights derived from various visualizations.
-- **README.md**: Provides an overview of the project, including detailed descriptions of the components and how to use them.
-- **insurance.csv**: The dataset used for the analysis, containing attributes such as work year, experience level, employment type, job title, salary, and more.
-- **medical.ipynb**: A Jupyter notebook containing the code for data cleaning, analysis, and visualization.
+- **Data Science Salaries Report.pdf**: This detailed report documents the statistical analysis and findings related to salary trends in the data science job market. It includes data visualizations, methodology, and insights derived from the analysis.
+- **Visual Analytics assignment.twb**: A Tableau dashboard file that contains the interactive visualizations created for this project. This dashboard allows for dynamic exploration of the data, offering insights into salary trends across various dimensions.
 
 #### Dataset Description
 The dataset includes the following columns:
